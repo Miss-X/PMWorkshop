@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+._形状 {
+}
 ._图片_ {
 }
 ._一级标题 {
@@ -57,6 +59,11 @@
 }
 ._流程形状 {
 }
+._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
 .icon {
 }
 ._图片 {
@@ -82,9 +89,16 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .checkbox {
   text-align:left;
 }
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.flow_shape {
 }
